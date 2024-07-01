@@ -33,7 +33,7 @@ This project demonstrates a web page with routes using react-router-dom, designe
 
 4. **Start the development server:**
    ```bash
-   npm start
+   npm run dev
 
 ## Development Process
 
