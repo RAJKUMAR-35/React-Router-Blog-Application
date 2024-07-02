@@ -1,4 +1,4 @@
-# React Router Task
+## React Router Blog Application
 
 ![Todo App Edit Preview](public/Images/demo.png)
 
@@ -21,11 +21,11 @@ This project demonstrates a web page with routes using react-router-dom, designe
 ## How to Start
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/RAJKUMAR-35/React-Router-Task
+   git clone https://github.com/RAJKUMAR-35/React-Router-Blog-Application
 
 2. **Navigate to the project directory:**
    ```bash
-   cd React-Router-Task
+   cd React-Router-Blog-Application
 
 3. **cd react-shopping-cart:**
    ```bash
